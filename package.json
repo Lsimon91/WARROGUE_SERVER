@@ -1,0 +1,15 @@
+{
+  "name": "warrogue-public-server",
+  "version": "2.5.3",
+  "private": true,
+  "description": "Servidor autoritativo WARROGUE con simulacion RTS e inteligencia artificial en Node.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js && node --check src/server.js && node --check persistence.js && node --check game-engine.js && node --check ai-engine.js && node --check bot-manager.js && node --check game-loop.js && node --check public/js/app.js && node --check test/persistence.test.js && node --check test/ai-engine.test.js && node --check test/building-placement.test.js && node --check progression.js && node --check test/progression.test.js",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "ws": "^8.18.3"
+  }
+}

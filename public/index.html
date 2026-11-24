@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#0b1118"><meta name="description" content="WARROGUE — centro de mando multijugador">
+  <title>WARROGUE 2.2.8 — Centro de mando</title>
+  <link rel="icon" href="/assets/warrogue.svg" type="image/svg+xml"><link rel="preload" as="image" href="/assets/warrogue-cinematic-battlefield.jpg"><link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+<header class="topbar"><a class="brand" href="/"><img src="/assets/warrogue.svg" alt=""><span>WARROGUE<small>PUBLIC COMMAND NETWORK</small></span></a><nav class="main-nav"><a href="#comando">COMANDO</a><a href="#inteligencia">INTELIGENCIA IA</a><a href="#salas">SALAS</a><a href="#clasificacion">RANKING</a></nav><div class="top-status"><i id="statusDot"></i><span id="connectionLabel">Comprobando servidor…</span></div></header>
+<main>
+  <section class="hero"><div class="hero-copy"><p class="eyebrow">SISTEMA DE OPERACIONES MULTIJUGADOR</p><h1>EL CAMPO DE BATALLA<br><em>NO TIENE FRONTERAS.</em></h1><p class="intro">Crea una sala, reúne a tu escuadrón y entra en combate. Conecta desde la web o desde el cliente Android compatible.</p><div class="hero-actions"><a class="button primary" href="#salas">VER SALAS DISPONIBLES <b>↘</b></a><span class="protocol">PROTOCOLO WARROGUE.V1</span></div></div><div class="radar-wrap"><div class="radar"><div class="radar-sweep"></div><span class="blip b1"></span><span class="blip b2"></span><span class="blip b3"></span><span class="radar-cross">＋</span></div><div class="radar-caption"><span>SECTOR DE EXPLORACIÓN</span><b>LIVE / 01</b></div></div></section>
+  <section class="metrics"><div><small>ESTADO DE RED</small><strong id="metricState">—</strong></div><div><small>SALAS ACTIVAS</small><strong id="metricRooms">—</strong></div><div><small>JUGADORES CONECTADOS</small><strong id="metricPlayers">—</strong></div><div><small>CAPACIDAD POR SALA</small><strong>08</strong></div></section>
+  <section id="comando" class="command-dashboard">
+    <div class="section-head"><div><p class="eyebrow">INTELIGENCIA DE COMBATE</p><h2>Centro de mando estratégico</h2></div><span class="live-label">DATOS PERSISTENTES</span></div>
+    <div class="global-stats">
+      <article><small>JUGADORES REGISTRADOS</small><strong id="globalPlayers">—</strong></article>
+      <article><small>PARTIDAS REGISTRADAS</small><strong id="globalMatches">—</strong></article>
+      <article><small>VICTORIAS</small><strong id="globalWins">—</strong></article>
+      <article><small>ELIMINACIONES</small><strong id="globalKills">—</strong></article>
+    </div>
+    <div id="clasificacion" class="command-grid">
+      <article class="panel"><p class="eyebrow">TU IDENTIDAD</p><div id="myProfile" class="my-profile"><p class="profile-empty">Cargando perfil del jugador…</p></div></article>
+      <article class="panel"><p class="eyebrow">CLASIFICACIÓN GLOBAL</p><div id="leaderboardList" class="leaderboard-list">Cargando clasificación…</div></article>
+    </div>
+    <section id="inteligencia" class="ai-command-panel">
+      <div class="section-head"><div><p class="eyebrow">APRENDIZAJE DEL SERVIDOR</p><h2>Centro de evolución de la IA</h2></div><span class="live-label" id="aiUpdated">ESPERANDO DATOS</span></div>
+      <p class="ai-intro">Rendimiento acumulado de los bots en partidas multijugador online. Los datos se guardan en el servidor y alimentan los ajustes de estrategia por dificultad.</p>
+      <div id="aiStatsGrid" class="ai-stats-grid"><article class="ai-stat-card"><span class="ai-difficulty">IA FÁCIL · NORMAL · DIFÍCIL · EXPERTO</span><strong>—</strong><small>Consultando registros del servidor…</small></article></div>
+    </section>
+  </section>
+  <section id="salas" class="content-grid"><div class="section-head"><div><p class="eyebrow">OPERACIONES EN CURSO</p><h2>Salas disponibles</h2></div><button id="refreshBtn" class="button ghost">↻ ACTUALIZAR</button></div>
+    <div class="room-layout"><div class="room-list" id="roomList"><div class="empty"><span class="loader"></span><p>Consultando salas abiertas…</p></div></div>
+    <aside class="create-panel"><div class="panel-mark">＋</div><p class="eyebrow">NUEVA OPERACIÓN</p><h3>Desplegar<br>una partida</h3><div class="auth-box"><p class="eyebrow">CUENTA WARROGUE · REQUERIDA PARA ONLINE</p><label for="authEmail">Correo electrónico</label><input id="authEmail" type="email" autocomplete="email" placeholder="comandante@correo.com"><label for="authPassword">Contraseña</label><input id="authPassword" type="password" minlength="8" autocomplete="current-password" placeholder="Mínimo 8 caracteres"><div class="auth-actions"><button id="loginBtn" class="button ghost" type="button">INICIAR SESIÓN</button><button id="registerBtn" class="button ghost" type="button">CREAR CUENTA</button></div><p id="authState" class="fine">No has iniciado sesión. Las estadísticas online se guardan en tu cuenta.</p></div><label for="commander">Nombre del jugador</label><input id="commander" maxlength="20" placeholder="Tu nombre" value="Jugador"><label for="roomName">Nombre de la sala</label><input id="roomName" maxlength="20" placeholder="Operación Tormenta" value="Nueva operación"><label for="mapName">Mapa</label><select id="mapName"><option value="default">Territorio estándar</option></select><button id="createBtn" class="button primary full">CREAR SALA <b>→</b></button><p class="fine">La sala aparecerá en el listado para que otros jugadores puedan unirse.</p></aside></div>
+  </section>
+  <section id="lobby" class="lobby hidden"><div class="section-head"><div><p class="eyebrow">CANAL DE OPERACIONES</p><h2 id="lobbyTitle">Sala</h2></div><span class="room-code" id="roomCode">—</span></div><div class="lobby-grid"><div class="panel"><h3>Escuadrón</h3><div id="players" class="players"></div><div class="lobby-actions"><button id="readyBtn" class="button primary">ESTOY LISTO</button><button id="startBtn" class="button ghost hidden">INICIAR PARTIDA</button><button id="leaveBtn" class="button danger">ABANDONAR</button></div></div><div class="panel chat-panel"><h3>Comunicaciones</h3><div id="chatLog" class="chat-log"><p class="system-msg">Canal seguro establecido.</p></div><form id="chatForm"><input id="chatInput" maxlength="300" placeholder="Escribe un mensaje…"><button class="button primary" type="submit">ENVIAR</button></form></div><div id="aiLobbyPanel" class="panel ai-lobby-panel hidden"><p class="eyebrow">INTELIGENCIA ARTIFICIAL</p><h3>Historial de combate de la IA</h3><div id="aiLobbyStats" class="ai-lobby-stats"><p class="profile-empty">Cargando estadísticas persistentes…</p></div><p class="fine">Estadísticas globales del servidor, separadas por dificultad.</p></div></div></section>
+  <section class="notice"><div class="notice-icon">⌁</div><div><b>Conexión multiplataforma</b><p>Esta página permite consultar y administrar salas de espera. La partida en tiempo real se ejecuta en el cliente WARROGUE Android; ambos utilizan el mismo servidor WebSocket.</p></div></section>
+</main>
+<footer><span>WARROGUE NETWORK © <span id="year"></span></span><span>TACTICAL MULTIPLAYER SYSTEM <i></i> ONLINE SERVICES</span></footer>
+<div id="toast" class="toast" role="status"></div><script src="/js/app.js"></script>
+</body></html>

@@ -1,0 +1,49 @@
+WARROGUE - MEJORA DE IA ONLINE
+
+ARCHIVOS INCLUIDOS
+- ai-engine.js
+- game-engine.js
+- bot-manager.js
+- game-loop.js
+- server.js
+- package.json
+- test/ai-engine.test.js
+
+INSTALACION
+1. Haz una copia de seguridad de los archivos actuales del servidor.
+2. Sube/reemplaza los seis archivos de la raiz del servidor por los incluidos aqui.
+3. Copia test/ai-engine.test.js dentro de la carpeta test del servidor.
+4. NO reemplaces .env ni data/warrogue.json. Se conservan tus ajustes y estadisticas.
+5. En la carpeta del servidor ejecuta:
+     npm run check
+     npm test
+6. Reinicia el proceso Node.js.
+
+CONFIGURACION
+La dificultad general de los bots se controla desde .env con BOT_DIFFICULTY:
+easy, normal, hard, expert o commander.
+
+La personalidad (agresiva, defensiva, expansiva o equilibrada) se asigna
+aleatoriamente a cada bot al crearlo y se conserva durante esa partida.
+
+CAMBIOS
+- Apariciones aleatorias por partida, con pares opuestos y distancia equilibrada.
+- La IA solo reacciona a enemigos visibles y recursos ya descubiertos.
+- La IA deja de apuntar a la coordenada real de bases enemigas ocultas.
+- Los ataques sin objetivo visible avanzan hacia sectores de exploracion del mapa.
+- Personalidades persistentes por bot durante la partida.
+- Dificultad validada y tiempos de pensamiento diferenciados.
+- Errores individuales de IA no detienen el bucle completo de simulacion.
+- Los avisos de orden ya no retransmiten coordenadas, objetivos ni IDs de unidades.
+- .env se carga antes de importar el motor y el administrador de bots.
+- Se corrige el comando npm run check para revisar los archivos que existen.
+
+VALIDACION REALIZADA EN ESTA ENTREGA
+- npm run check: correcto.
+- npm test: 7 pruebas aprobadas, 0 fallidas.
+- Pruebas específicas: posiciones aleatorias y equilibradas; IA sin visión de
+  enemigos ocultos.
+
+NOTA
+Estas pruebas verifican sintaxis, persistencia y reglas clave de la IA. No
+sustituyen una prueba de partida real entre dos dispositivos conectados.

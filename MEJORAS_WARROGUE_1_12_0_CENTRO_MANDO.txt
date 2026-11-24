@@ -1,0 +1,18 @@
+WARROGUE 1.12.0 — CENTRO DE MANDO WEB
+
+CAMBIOS
+- Nuevo panel de evolución de IA con estadísticas para dificultades fácil, normal y difícil.
+- El panel muestra partidas, victorias, derrotas, porcentaje de victorias, bajas, bajas medias, puntuación media y parámetros de agresividad/cautela.
+- Las estadísticas se consultan desde /api/ai/stats y se refrescan periódicamente.
+- El lobby online muestra el resumen de IA cuando la sala contiene bots.
+- Al recibirse game_over, se fuerza una actualización de estadísticas.
+- El resumen de IA presenta las tres dificultades incluso antes de que existan partidas registradas, mostrando valores cero en lugar de ocultar el panel.
+- Mejora visual del sitio: navegación fija, jerarquía visual, paneles tácticos, tarjetas de IA, estados y adaptación móvil.
+- La persistencia sigue siendo responsabilidad exclusiva del servidor Node.js. No se modifica la IA del modo individual Android.
+
+VERIFICACIONES
+- npm run check: correcto.
+- npm test: 4 pruebas correctas, incluyendo persistencia de aprendizaje de IA tras reiniciar y resumen por dificultad.
+
+NOTA
+Las estadísticas reales aumentan cuando termina una partida online que incluye al menos un bot. Antes de la primera partida se muestran ceros. La adaptación actual sigue siendo heurística y agregada por dificultad; no representa entrenamiento neuronal ni aprendizaje individual por jugador.
