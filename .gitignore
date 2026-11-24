@@ -1,9 +1,2 @@
 node_modules/
 .env
-/data/
-*.tmp
-*.corrupt-*
-*.bak
-certs/*.key
-certs/*.csr
-certs/*.srl

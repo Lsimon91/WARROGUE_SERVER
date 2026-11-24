@@ -1,0 +1,955 @@
+{
+  "version": 1,
+  "profiles": {
+    "c62f7add-2a28-46f4-977f-06652bdd923f": {
+      "id": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "platform": "android",
+      "createdAt": 1794772210634,
+      "lastSeenAt": 1794844652289,
+      "matches": 9,
+      "wins": 7,
+      "losses": 2,
+      "draws": 0,
+      "kills": 192,
+      "produced": 471,
+      "built": 48,
+      "score": 1920,
+      "streak": 7,
+      "bestStreak": 7,
+      "xp": 3640,
+      "rank": "CABO",
+      "achievements": [
+        "first_battle",
+        "victory_1",
+        "kills_100",
+        "streak_5",
+        "producer_200"
+      ],
+      "lastMatch": {
+        "result": "VICTORIA",
+        "duration": 165,
+        "at": 1794844652299,
+        "xp": 310,
+        "kills": 14
+      },
+      "seconds": 0,
+      "longest": 0,
+      "bestKills": 0,
+      "fastestWin": 0
+    },
+    "fcccf889-9621-47a6-8f0c-32ed7fd57dd7": {
+      "id": "fcccf889-9621-47a6-8f0c-32ed7fd57dd7",
+      "name": "Comandante",
+      "platform": "web",
+      "createdAt": 1794772632404,
+      "lastSeenAt": 1794772632404,
+      "matches": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "kills": 0,
+      "produced": 0,
+      "built": 0,
+      "score": 0,
+      "streak": 0,
+      "bestStreak": 0,
+      "xp": 0,
+      "rank": "RECLUTA",
+      "achievements": [],
+      "seconds": 0,
+      "longest": 0,
+      "bestKills": 0,
+      "fastestWin": 0
+    },
+    "2743aa55-c471-427e-95a0-8fdb9fee1d76": {
+      "id": "2743aa55-c471-427e-95a0-8fdb9fee1d76",
+      "name": "Guardian9102",
+      "platform": "web",
+      "createdAt": 1794800092316,
+      "lastSeenAt": 1794800092316,
+      "matches": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "kills": 0,
+      "produced": 0,
+      "built": 0,
+      "score": 0,
+      "streak": 0,
+      "bestStreak": 0,
+      "xp": 0,
+      "rank": "RECLUTA",
+      "achievements": [],
+      "seconds": 0,
+      "longest": 0,
+      "bestKills": 0,
+      "fastestWin": 0
+    },
+    "965b1790-6df1-4815-839e-e33810bd84a9": {
+      "id": "965b1790-6df1-4815-839e-e33810bd84a9",
+      "name": "Guardian9102",
+      "platform": "web",
+      "createdAt": 1794811503194,
+      "lastSeenAt": 1794811503194,
+      "matches": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "kills": 0,
+      "produced": 0,
+      "built": 0,
+      "score": 0,
+      "streak": 0,
+      "bestStreak": 0,
+      "xp": 0,
+      "rank": "RECLUTA",
+      "achievements": [],
+      "seconds": 0,
+      "longest": 0,
+      "bestKills": 0,
+      "fastestWin": 0
+    },
+    "b59a0a9b-c76b-40cb-ac29-2b83d7ff37e6": {
+      "id": "b59a0a9b-c76b-40cb-ac29-2b83d7ff37e6",
+      "name": "Jugador",
+      "platform": "web",
+      "createdAt": 1794839250074,
+      "lastSeenAt": 1794839250074,
+      "matches": 0,
+      "wins": 0,
+      "losses": 0,
+      "draws": 0,
+      "kills": 0,
+      "produced": 0,
+      "built": 0,
+      "score": 0,
+      "streak": 0,
+      "bestStreak": 0,
+      "xp": 0,
+      "rank": "RECLUTA",
+      "achievements": [],
+      "seconds": 0,
+      "longest": 0,
+      "bestKills": 0,
+      "fastestWin": 0
+    },
+    "023655b2-b16e-452f-bf64-c620b4b3495c": {
+      "id": "023655b2-b16e-452f-bf64-c620b4b3495c",
+      "name": "Guardian9102",
+      "platform": "android",
+      "createdAt": 1794846903143,
+      "lastSeenAt": 1794848260646,
+      "matches": 2,
+      "wins": 2,
+      "losses": 0,
+      "draws": 0,
+      "kills": 38,
+      "produced": 79,
+      "built": 12,
+      "score": 380,
+      "streak": 2,
+      "bestStreak": 2,
+      "xp": 770,
+      "rank": "SOLDADO",
+      "achievements": [
+        "first_battle",
+        "victory_1"
+      ],
+      "lastMatch": {
+        "result": "VICTORIA",
+        "duration": 196,
+        "at": 1794848260656,
+        "xp": 355,
+        "kills": 17
+      },
+      "seconds": 0,
+      "longest": 0,
+      "bestKills": 0,
+      "fastestWin": 0
+    },
+    "6d119d7cbc743152c37818ab8c0045031f5c": {
+      "id": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "platform": "android",
+      "createdAt": 1794855778369,
+      "lastSeenAt": 1795543798493,
+      "matches": 41,
+      "wins": 38,
+      "losses": 3,
+      "draws": 0,
+      "kills": 1289,
+      "produced": 2631,
+      "built": 298,
+      "score": 12890,
+      "streak": 0,
+      "bestStreak": 28,
+      "xp": 16755,
+      "rank": "TENIENTE",
+      "achievements": [
+        "first_battle",
+        "victory_1",
+        "wins_10",
+        "veteran_25",
+        "kills_100",
+        "kills_500",
+        "massacre",
+        "streak_5",
+        "streak_10",
+        "streak_20",
+        "builder_100",
+        "producer_200",
+        "producer_1000",
+        "blitz",
+        "strategist_60",
+        "decorated"
+      ],
+      "lastMatch": {
+        "result": "DERROTA",
+        "duration": 599,
+        "at": 1795543798500,
+        "xp": 30,
+        "kills": 22
+      },
+      "seconds": 4356,
+      "longest": 1047,
+      "bestKills": 95,
+      "fastestWin": 213
+    }
+  },
+  "accounts": {
+    "69b6d044-53fd-4cdf-b331-67b3b8cede61": {
+      "id": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "email": "lslescobar91@gmail.com",
+      "name": "lslescobar91",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "salt": "af4254542d56dbc5f1e67a84ea3ef769",
+      "passwordHash": "20d6e1925cfed9717050a999b57600a0b0b5b9318d677c181e8a32da96fa46d10ba6b1989fc60f5990af7ab079f98b0c3a38ace8c2e4fc76a0bfe11b4ac514fa",
+      "createdAt": 1794855778367
+    }
+  },
+  "tokens": {
+    "9b7fed55ab8408c3df62f35423fb8bb5aeb9f06fbafe281ebca60c91b4e8a4c1": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797447778383
+    },
+    "f08c7fca962da554bf658b41a98f25ea79236f75a44ff47c9a8e0e6e08c42710": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797448184929
+    },
+    "a17b96818bd04238d3731d222fb49ccea2d698959bb662de90899e89f4ee037c": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797448732679
+    },
+    "0b976f65c516f3a00135847c0ded9c236b867cc1d22cafe305caea48046b6ede": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797460019920
+    },
+    "447bbeb5ff41d8750502265e23a3a4351c90754cd488d53843a04ae71097dc9f": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797460757622
+    },
+    "1bf03e64de73ef66b42f476fe379c927d086315c80a9bffd312be82d60f22a64": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797464970049
+    },
+    "d4483417c79e2947ea6f54b6ece04fc128626367b77dd8f01d71fbc4fb0504f9": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797518537379
+    },
+    "0e22529619f252ca87a5d6fdc8a22f74d8949b35546df920bc23b2df981965ee": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797537269908
+    },
+    "fefa760116b2d6bdc28e448a59f5fd5c33c4961461421d4155e0202bdd06efb9": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797537292044
+    },
+    "fd33648fb7acfbdf56f9a736bdbf6efdde8cfb381559b05a3afcdc096b7be5ff": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797564606251
+    },
+    "700d7139f83b5ffd31a42d7b26a3508bf0fcc5d210d12d4c2113ce1d874c1cc6": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797699935884
+    },
+    "fad200585c9787f482cf7930ae416abf23a16f1476cc75818d0f5c8ee108faa0": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797701398119
+    },
+    "33682e0588ccb3d46b910ad89db4c0f097aec821e286d1d93ce43f0124fee677": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797701486203
+    },
+    "c1bc87005c45fe85cf6ed9205846a108626f35e14e85630335be92bab61b0036": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1797701812967
+    },
+    "44226b3d1951c607185f9bfeba7db7b77435f450eff228ff4816b46831e3144e": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1798127508354
+    },
+    "355d2f9dd41b9476612e7f848b0bbc2e23640afee1d28dfc0a21f0c647506fe5": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1798129597560
+    },
+    "46e2ce523990fc50956e865db0ffb8e3cc819de1f55f7a65b4b4205574164d2a": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1798131185600
+    },
+    "ef169941462ad1fd3f98ea59cc71fda0fc777cfac0a6321271f18871a0559a45": {
+      "accountId": "69b6d044-53fd-4cdf-b331-67b3b8cede61",
+      "expiresAt": 1798134631845
+    }
+  },
+  "aiProfiles": {
+    "normal": {
+      "difficulty": "normal",
+      "matches": 605,
+      "wins": 290,
+      "losses": 315,
+      "kills": 20289,
+      "totalScore": 202890,
+      "totalDuration": 425707,
+      "aggression": 0.16484373719733653,
+      "caution": 0.2,
+      "strategy": {
+        "defense": 0,
+        "economy": 0,
+        "expansion": 0,
+        "attack": 0
+      },
+      "updatedAt": 1795543798429,
+      "winRate": 48,
+      "produced": 0,
+      "built": 0,
+      "xp": 0,
+      "streak": 0,
+      "bestStreak": 0
+    },
+    "easy": {
+      "difficulty": "easy",
+      "matches": 0,
+      "wins": 0,
+      "losses": 0,
+      "kills": 0,
+      "totalScore": 0,
+      "totalDuration": 0,
+      "aggression": 0,
+      "caution": 0,
+      "strategy": {
+        "defense": 0,
+        "economy": 0,
+        "expansion": 0,
+        "attack": 0
+      },
+      "updatedAt": 1794867896607,
+      "produced": 0,
+      "built": 0,
+      "xp": 0,
+      "streak": 0,
+      "bestStreak": 0
+    },
+    "hard": {
+      "difficulty": "hard",
+      "matches": 931,
+      "wins": 461,
+      "losses": 470,
+      "kills": 41280,
+      "totalScore": 412800,
+      "totalDuration": 483379,
+      "aggression": -0.07420499850247143,
+      "caution": 0.05565374887685361,
+      "strategy": {
+        "defense": 0,
+        "economy": 0,
+        "expansion": 0,
+        "attack": 0
+      },
+      "updatedAt": 1795098045394,
+      "produced": 1808,
+      "built": 144,
+      "xp": 14684,
+      "streak": 0,
+      "bestStreak": 2,
+      "lastMatch": {
+        "result": "DERROTA",
+        "duration": 356,
+        "at": 1794973014676,
+        "xp": 300,
+        "kills": 36
+      },
+      "winRate": 50
+    },
+    "expert": {
+      "difficulty": "expert",
+      "matches": 0,
+      "wins": 0,
+      "losses": 0,
+      "kills": 0,
+      "produced": 0,
+      "built": 0,
+      "xp": 0,
+      "streak": 0,
+      "bestStreak": 0,
+      "totalScore": 0,
+      "totalDuration": 0,
+      "aggression": 0,
+      "caution": 0,
+      "strategy": {
+        "defense": 0,
+        "economy": 0,
+        "expansion": 0,
+        "attack": 0
+      },
+      "updatedAt": 1794945174466
+    },
+    "commander": {
+      "difficulty": "commander",
+      "matches": 0,
+      "wins": 0,
+      "losses": 0,
+      "kills": 0,
+      "produced": 0,
+      "built": 0,
+      "xp": 0,
+      "streak": 0,
+      "bestStreak": 0,
+      "totalScore": 0,
+      "totalDuration": 0,
+      "aggression": 0,
+      "caution": 0,
+      "strategy": {
+        "defense": 0,
+        "economy": 0,
+        "expansion": 0,
+        "attack": 0
+      },
+      "updatedAt": 1794945174467
+    }
+  },
+  "matches": [
+    {
+      "id": "8a4f9d4f-5130-4531-b092-341b5e9c8af1",
+      "roomId": "8398199029",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "DERROTA",
+      "duration": 599,
+      "xp": 30,
+      "at": 1795543798503
+    },
+    {
+      "id": "e19d37b2-377d-4832-ba3a-fa984b87e208",
+      "roomId": "B996E35A92",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 213,
+      "xp": 53,
+      "at": 1795113653723
+    },
+    {
+      "id": "2e7febe1-232b-47cb-a3bc-6d43dc2ab5a8",
+      "roomId": "D9639FC843",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 301,
+      "xp": 60,
+      "at": 1795110437432
+    },
+    {
+      "id": "9cd43318-ef84-4def-96dd-aa9bee2fb89c",
+      "roomId": "B72552EFB1",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 341,
+      "xp": 60,
+      "at": 1795107378879
+    },
+    {
+      "id": "f79897dc-63ee-44cc-b3b0-c7304a55983d",
+      "roomId": "1C830E7E06",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 271,
+      "xp": 60,
+      "at": 1795100100788
+    },
+    {
+      "id": "8f64351b-88b0-4e0b-8e6e-3c9b91add430",
+      "roomId": "BAAD3250C1",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 426,
+      "xp": 56,
+      "at": 1795099801786
+    },
+    {
+      "id": "1b51de56-c84c-452d-89a9-c68d214e3a10",
+      "roomId": "6D2D121487",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 430,
+      "xp": 60,
+      "at": 1795099310630
+    },
+    {
+      "id": "63b6ff5a-b67d-472c-bbb4-c50cbeb63c1b",
+      "roomId": "B50050987E",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 339,
+      "xp": 60,
+      "at": 1795098843313
+    },
+    {
+      "id": "7d04efc0-77c7-4edd-9591-fcd613849d46",
+      "roomId": "407B4EE4DF",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 389,
+      "xp": 60,
+      "at": 1795098463128
+    },
+    {
+      "id": "8d2ce8f0-3afe-42e2-a094-5ce3d4a51fda",
+      "roomId": "0E20960218",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "DERROTA",
+      "duration": 1047,
+      "xp": 56,
+      "at": 1795049517129
+    },
+    {
+      "id": "9c3bba57-e517-45fa-bcf6-9d145ffd0445",
+      "roomId": "B2AC82064C",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 278,
+      "xp": 145,
+      "at": 1795012238263
+    },
+    {
+      "id": "02fc6f5a-126d-4a77-a596-56b7046072e7",
+      "roomId": "8503952E04",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 286,
+      "xp": 640,
+      "at": 1795008047772
+    },
+    {
+      "id": "f2254bd2-b1c6-4168-9d12-053e8eab11df",
+      "roomId": "BDD21BD1BE",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "DERROTA",
+      "duration": 388,
+      "xp": 1005,
+      "at": 1794980978621
+    },
+    {
+      "id": "82a5a2b8-2ab8-4ab4-86e9-a6be96e9a67c",
+      "roomId": "B6866AF02F",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 356,
+      "xp": 835,
+      "at": 1794973014699
+    },
+    {
+      "id": "7edfd296-706e-4bbb-9ffc-11de86a81240",
+      "roomId": "0DC353A2F8",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 626,
+      "xp": 685,
+      "at": 1794958792964
+    },
+    {
+      "id": "7af81b0b-5a03-44b6-8465-9236cee12857",
+      "roomId": "1964F3D7BC",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 244,
+      "xp": 580,
+      "at": 1794952820493
+    },
+    {
+      "id": "e9a72d39-7235-41e9-99ef-b0ed30ffcae1",
+      "roomId": "815CC3978B",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 237,
+      "xp": 490,
+      "at": 1794947404956
+    },
+    {
+      "id": "a1289a10-63d6-46ed-9663-71e3cf95f099",
+      "roomId": "5163358EBE",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 207,
+      "xp": 550,
+      "at": 1794947144882
+    },
+    {
+      "id": "18e2a8eb-77b7-4955-a77f-c18555d9b32b",
+      "roomId": "4689437FC6",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 490,
+      "xp": 835,
+      "at": 1794946561278
+    },
+    {
+      "id": "222c52ac-8412-4038-bfa1-9042f9c6fb73",
+      "roomId": "0D2B286CDE",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 425,
+      "xp": 1135,
+      "at": 1794944983824
+    },
+    {
+      "id": "9d545909-3c8e-4a0e-9497-75f6db7a98ef",
+      "roomId": "7836136A48",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 568,
+      "xp": 1000,
+      "at": 1794942695869
+    },
+    {
+      "id": "498b9d27-901e-47e1-8fd8-1528e96f099e",
+      "roomId": "070ED342B3",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 221,
+      "xp": 565,
+      "at": 1794934602229
+    },
+    {
+      "id": "5d740477-6393-404e-8157-f6900e4c05e6",
+      "roomId": "E80FC050D6",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 144,
+      "xp": 370,
+      "at": 1794932954634
+    },
+    {
+      "id": "51d23e45-cd0f-4b78-9157-28a22f76bae6",
+      "roomId": "54351545FE",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 188,
+      "xp": 370,
+      "at": 1794932692349
+    },
+    {
+      "id": "3f9708a3-f687-4d14-8971-7081d3722d58",
+      "roomId": "47779EEFD7",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 142,
+      "xp": 295,
+      "at": 1794929740262
+    },
+    {
+      "id": "0c7b5e3a-626e-4808-bfed-38b442d49f62",
+      "roomId": "06FECCB40A",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 399,
+      "xp": 640,
+      "at": 1794926999577
+    },
+    {
+      "id": "9f0d42c7-9ecb-4f1c-9f60-60a2dca055c4",
+      "roomId": "C4AC5BEBA6",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 384,
+      "xp": 595,
+      "at": 1794925700341
+    },
+    {
+      "id": "7f42c8c1-2866-4011-a4d9-e18289f3342c",
+      "roomId": "170414AAB8",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 240,
+      "xp": 445,
+      "at": 1794925262817
+    },
+    {
+      "id": "b3d1b4f3-4d50-40ca-8b23-7ad2ca8c1720",
+      "roomId": "428CA6AA31",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 183,
+      "xp": 340,
+      "at": 1794924881537
+    },
+    {
+      "id": "4e4333d9-dc28-4d00-9ff4-339503adb82a",
+      "roomId": "A68A5FAA8A",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 140,
+      "xp": 295,
+      "at": 1794890257658
+    },
+    {
+      "id": "f54450e8-5ac3-4db3-85a8-73970aeca4c3",
+      "roomId": "F46DFD72F4",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 227,
+      "xp": 430,
+      "at": 1794889963363
+    },
+    {
+      "id": "35276b75-6d5f-4d16-8533-c6bd1bf88933",
+      "roomId": "71808A2EB6",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 215,
+      "xp": 415,
+      "at": 1794872155962
+    },
+    {
+      "id": "711ea12c-1c84-4b28-af81-731106896609",
+      "roomId": "D5C18B31F2",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 224,
+      "xp": 400,
+      "at": 1794871914400
+    },
+    {
+      "id": "2464bc22-74bf-4bb3-917d-05b3b3a5b721",
+      "roomId": "D2EC151D86",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 229,
+      "xp": 460,
+      "at": 1794871617389
+    },
+    {
+      "id": "b854ba8c-b943-4bc3-8403-8aa8c6089d76",
+      "roomId": "7DBBA95C5D",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 167,
+      "xp": 325,
+      "at": 1794868988657
+    },
+    {
+      "id": "ea7505b3-9401-4fb5-9100-cde496684dda",
+      "roomId": "BA5EB17D99",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 188,
+      "xp": 355,
+      "at": 1794867847843
+    },
+    {
+      "id": "5b6784dc-bfd8-4f34-81a2-c5b0ed0241e2",
+      "roomId": "8E4D43D6C0",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 272,
+      "xp": 520,
+      "at": 1794867439438
+    },
+    {
+      "id": "45d1cbe8-1d09-4054-8cdf-3706be53c353",
+      "roomId": "88DC9C7695",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 191,
+      "xp": 355,
+      "at": 1794859413849
+    },
+    {
+      "id": "690fa331-5b27-470f-8579-73f03c13fc11",
+      "roomId": "9F9B8A3DF2",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 199,
+      "xp": 400,
+      "at": 1794857794328
+    },
+    {
+      "id": "43c38938-290f-45f9-a9c3-33f7a3110445",
+      "roomId": "680BE0A919",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 168,
+      "xp": 340,
+      "at": 1794857544210
+    },
+    {
+      "id": "2773bce3-78ec-4e73-8617-5fdd6be6208b",
+      "roomId": "C6550DB73F",
+      "profileId": "6d119d7cbc743152c37818ab8c0045031f5c",
+      "name": "lslescobar91",
+      "result": "VICTORIA",
+      "duration": 201,
+      "xp": 385,
+      "at": 1794856001385
+    },
+    {
+      "id": "c253bb32-c85e-4f6e-a909-af96700dde4a",
+      "roomId": "CC78F5733A",
+      "profileId": "023655b2-b16e-452f-bf64-c620b4b3495c",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 196,
+      "xp": 355,
+      "at": 1794848260674
+    },
+    {
+      "id": "fe683d42-dc5b-4f6d-b81e-462010a8795e",
+      "roomId": "79DB0D3C4E",
+      "profileId": "023655b2-b16e-452f-bf64-c620b4b3495c",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 204,
+      "xp": 415,
+      "at": 1794847122311
+    },
+    {
+      "id": "b5d2904b-d320-4051-a176-573467fa511c",
+      "roomId": "EB505FEB6B",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 165,
+      "xp": 310,
+      "at": 1794844652318
+    },
+    {
+      "id": "328fef8a-9a1d-4101-a25c-8c506ca1a635",
+      "roomId": "0059D71E4D",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 309,
+      "xp": 565,
+      "at": 1794839628119
+    },
+    {
+      "id": "50c8b026-96a6-4ece-ba71-a031bb089703",
+      "roomId": "1D5C3CC2A1",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 234,
+      "xp": 430,
+      "at": 1794839150045
+    },
+    {
+      "id": "2b97b9be-cbfa-45c3-b394-eb44be1400bc",
+      "roomId": "CEE7E95878",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 230,
+      "xp": 430,
+      "at": 1794838872557
+    },
+    {
+      "id": "3d3a8361-ea81-4e3f-9dfd-3a41cfdceb68",
+      "roomId": "E8D883F474",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 169,
+      "xp": 310,
+      "at": 1794800607683
+    },
+    {
+      "id": "a95ca074-e59b-4e80-9058-b9b92212c659",
+      "roomId": "252F4449D3",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 204,
+      "xp": 355,
+      "at": 1794800386615
+    },
+    {
+      "id": "7f0f925a-d16f-4f67-b64d-e31a29d3cf73",
+      "roomId": "0617CF8F8D",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "VICTORIA",
+      "duration": 447,
+      "xp": 685,
+      "at": 1794799543830
+    },
+    {
+      "id": "72afd8a4-1b8b-4c8a-b891-d25c914b4bbe",
+      "roomId": "2866070812",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "DERROTA",
+      "duration": 276,
+      "xp": 225,
+      "at": 1794775691199
+    },
+    {
+      "id": "c1cb2101-d093-4879-bb30-acc53293afa8",
+      "roomId": "24DF8D0E60",
+      "profileId": "c62f7add-2a28-46f4-977f-06652bdd923f",
+      "name": "Guardian9102",
+      "result": "DERROTA",
+      "duration": 353,
+      "xp": 330,
+      "at": 1794772574408
+    }
+  ],
+  "totalMatches": 52,
+  "updatedAt": 1795543798505
+}
